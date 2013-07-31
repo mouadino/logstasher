@@ -5,7 +5,7 @@ setup(
     name="logstasher",
     version="0.1",
     author="Mouad Benchchaoui",
-    author_email="m.benchchaoui@cloudbau.com",
+    author_email="m.benchchaoui@cloudbau.de",
     description="TODO",
     license="BSD",
     keywords="logging formatting openstack logstash",
