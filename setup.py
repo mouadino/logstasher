@@ -9,7 +9,7 @@ setup(
     description="TODO",
     license="BSD",
     keywords="logging formatting openstack logstash",
-    install_requires=['tzlocal==1.0'],
+    install_requires=['pytz>=2013b', 'tzlocal==1.0'],
     py_modules=['logstasher'],
     classifiers=[
         "Development Status :: 3 - Alpha",
